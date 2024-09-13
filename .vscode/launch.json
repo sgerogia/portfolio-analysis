@@ -1,0 +1,22 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Python: Run Script",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/scripts/main.py",
+            "args": ["arg1", "arg2"],
+            "cwd": "${workspaceFolder}"
+        },
+        {
+            "name": "Python: Run PyTest",
+            "type": "debugpy",
+            "request": "launch",
+            "module": "pytest",
+            "args": ["-v"],
+            "cwd": "${workspaceFolder}"
+        }
+    ]
+}
+

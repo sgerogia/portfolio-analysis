@@ -1,0 +1,408 @@
+- name: "Vanguard LifeStrategy Funds ICVC"
+  url: https://www.fidelity.co.uk/factsheet-data/factsheet/GB00B41XG308-vanguard-lifestrategy-100-equity-acc/portfolio
+  weighting: 50
+  portfolioHoldings:
+    - securityName: "Vanguard U.S. Equity Index Fund"
+      fund: true
+      weighting: 19.66409
+    - securityName: "Vanguard FTSE U.K. All Share Index Unit Trust"
+      fund: true
+      weighting: 19.59998
+    - securityName: "Vanguard FTSE Developed World ex-U.K. Equity Index Fund Acc"
+      fund: true
+      weighting: 19.2773
+    - securityName: "Vanguard S&P 500 UCITS ETF (VUSA) Acc"
+      fund: true
+      weighting: 16.70493
+    - securityName: "Vanguard Emerging Markets Stock Index Fund"
+      fund: true
+      weighting: 7.52947
+    - securityName: "Vanguard FTSE Developed Europe ex-U.K. Equity Index Fund"
+      fund: true
+      weighting: 6.75081
+    - securityName: "Vanguard FTSE 100 Index Unit Trust"
+      fund: true
+      weighting: 4.68012
+    - securityName: "Vanguard Japan Stock Index Fund"
+      fund: true
+      weighting: 3.5667
+    - securityName: "Vanguard Pacific ex-Japan Stock Index Fund GBP Acc"
+      fund: true
+      weighting: 1.59781
+    - securityName: "Vanguard FTSE 250 UCITS ETF GBP Accumulation (VMIG)"
+      fund: true
+      weighting: 0.6288
+- name: "Vanguard FTSE All-World UCITS ETF USD Accumulation (VWRP)"
+  url: https://www.fidelity.co.uk/factsheet-data/factsheet/IE00BK5BQT80-vanguard-funds-plc/portfolio
+  weighting: 10
+  portfolioHoldings:
+    - securityName: "Apple Inc"
+      weighting: 4.2472
+    - securityName: "Microsoft Corp"
+      weighting: 4.09245
+    - securityName: "NVIDIA Corp"
+      weighting: 3.66157
+    - securityName: "Amazon.com Inc"
+      weighting: 2.28546
+    - securityName: "Meta Platforms Inc Class A"
+      weighting: 1.37006
+    - securityName: "Alphabet Inc Class A"
+      weighting: 1.3204
+    - securityName: "Alphabet Inc Class C"
+      weighting: 1.12997
+    - securityName: "Broadcom Inc"
+      weighting: 0.96016
+    - securityName: "Taiwan Semiconductor Manufacturing Co Ltd"
+      weighting: 0.90093
+    - securityName: "Eli Lilly and Co"
+      weighting: 0.89961
+- name: "Vanguard FTSE Developed World UCITS ETF USD Accumulation (VHVG)"
+  url: https://www.fidelity.co.uk/factsheet-data/factsheet/IE00BK5BQV03-vanguard-funds-plc/portfolio
+  weighting: 10
+  portfolioHoldings:
+    - securityName: "Apple Inc"
+      weighting: 4.70034
+    - securityName: "Microsoft Corp"
+      weighting: 4.5303
+    - securityName: "NVIDIA Corp"
+      weighting: 4.05134
+    - securityName: "Amazon.com Inc"
+      weighting: 2.5277
+    - securityName: "Meta Platforms Inc Class A"
+      weighting: 1.5152
+    - securityName: "Alphabet Inc Class A"
+      weighting: 1.47005
+    - securityName: "Alphabet Inc Class C"
+      weighting: 1.24024
+    - securityName: "Broadcom Inc"
+      weighting: 1.06361
+    - securityName: "Eli Lilly and Co"
+      weighting: 0.99524
+    - securityName: "Tesla Inc"
+      weighting: 0.93912
+- name: "Vanguard FTSE Emerging Markets UCITS ETF USD Accumulation (VFEG)"
+  url: https://www.fidelity.co.uk/factsheet-data/factsheet/IE00BK5BR733-vanguard-funds-plc/portfolio
+  weighting: 10
+  portfolioHoldings:
+    - securityName: "Taiwan Semiconductor Manufacturing Co Ltd"
+      weighting: 9.32007
+    - securityName: "Tencent Holdings Ltd"
+      weighting: 3.97499
+    - securityName: "Alibaba Group Holding Ltd Ordinary Shares"
+      weighting: 2.29793
+    - securityName: "Reliance Industries Ltd"
+      weighting: 1.63209
+    - securityName: "HDFC Bank Ltd"
+      weighting: 1.48357
+    - securityName: "PDD Holdings Inc ADR"
+      weighting: 1.24066
+    - securityName: "Infosys Ltd"
+      weighting: 1.06914
+    - securityName: "Meituan Class B"
+      weighting: 1.02132
+    - securityName: "Hon Hai Precision Industry Co Ltd"
+      weighting: 0.98143
+    - securityName: "China Construction Bank Corp Class H"
+      weighting: 0.89383
+- name: "Vanguard S&P 500 UCITS ETF (VUSA)"
+  url: https://www.fidelity.co.uk/factsheet-data/factsheet/IE00B3XXRP09-vanguard-funds-plc/portfolio
+  weighting: 10
+  portfolioHoldings:
+    - securityName: "Apple Inc"
+      weighting: 6.90189
+    - securityName: "Microsoft Corp"
+      weighting: 6.70404
+    - securityName: "NVIDIA Corp"
+      weighting: 6.2064
+    - securityName: "Amazon.com Inc"
+      weighting: 3.69202
+    - securityName: "Meta Platforms Inc Class A"
+      weighting: 2.24363
+    - securityName: "Alphabet Inc Class A"
+      weighting: 2.17149
+    - securityName: "Alphabet Inc Class C"
+      weighting: 1.82553
+    - securityName: "Berkshire Hathaway Inc Class B"
+      weighting: 1.71161
+    - securityName: "Broadcom Inc"
+      weighting: 1.50917
+    - securityName: "Tesla Inc"
+      weighting: 1.3884
+- name: "Vanguard FTSE Developed World ex-U.K. Equity Index Fund"
+  url: https://www.fidelity.co.uk/factsheet-data/factsheet/GB00B59G4Q73-vanguard-ftse-dv-wrld-ex-uk-eq-ix-gbp-ac/portfolio
+  weighting: 5
+  portfolioHoldings:
+    - securityName: "Apple Inc"
+      weighting: 4.76078
+    - securityName: "Microsoft Corp"
+      weighting: 4.58808
+    - securityName: "NVIDIA Corp"
+      weighting: 4.10407
+    - securityName: "Amazon.com Inc"
+      weighting: 2.56164
+    - securityName: "Future on E-mini S&P 500 Futures"
+      weighting: 2.15284
+    - securityName: "Meta Platforms Inc Class A"
+      weighting: 1.53432
+    - securityName: "Alphabet Inc Class A"
+      weighting: 1.48705
+    - securityName: "Alphabet Inc Class C"
+      weighting: 1.25761
+    - securityName: "Broadcom Inc"
+      weighting: 1.07747
+    - securityName: "Eli Lilly and Co"
+      weighting: 1.00879
+- name: "Vanguard FTSE All-World UCITS ETF USD Accumulation (VWRP)"
+  url: https://www.fidelity.co.uk/factsheet-data/factsheet/IE00BK5BQT80-vanguard-funds-plc/portfolio
+  weighting: 5
+  portfolioHoldings:
+    - securityName: "Apple Inc"
+      weighting: 4.2472
+    - securityName: "Microsoft Corp"
+      weighting: 4.09245
+    - securityName: "NVIDIA Corp"
+      weighting: 3.66157
+    - securityName: "Amazon.com Inc"
+      weighting: 2.28546
+    - securityName: "Meta Platforms Inc Class A"
+      weighting: 1.37006
+    - securityName: "Alphabet Inc Class A"
+      weighting: 1.3204
+    - securityName: "Alphabet Inc Class C"
+      weighting: 1.12997
+    - securityName: "Broadcom Inc"
+      weighting: 0.96016
+    - securityName: "Taiwan Semiconductor Manufacturing Co Ltd"
+      weighting: 0.90093
+    - securityName: "Eli Lilly and Co"
+      weighting: 0.89961
+- name: "Vanguard U.S. Equity Index Fund"
+  url: "https://www.fidelity.co.uk/factsheet-data/factsheet/GB00BJS8SJ34-vanguard-us-equity-index-fund/portfolio"
+  portfolioHoldings:
+    - securityName: "Apple Inc"
+      weighting: 5.96447
+    - securityName: "Microsoft Corp"
+      weighting: 5.79335
+    - securityName: "NVIDIA Corp"
+      weighting: 5.36358
+    - securityName: "Amazon.com Inc"
+      weighting: 3.19061
+    - securityName: "Meta Platforms Inc Class A"
+      weighting: 1.93914
+    - securityName: "Alphabet Inc Class A"
+      weighting: 1.87104
+    - securityName: "Alphabet Inc Class C"
+      weighting: 1.5833
+    - securityName: "Berkshire Hathaway Inc Class B"
+      weighting: 1.47909
+    - securityName: "Broadcom Inc"
+      weighting: 1.30435
+    - securityName: "Tesla Inc"
+      weighting: 1.20003
+- name: "Vanguard FTSE U.K. All Share Index Unit Trust"
+  url: "https://www.fidelity.co.uk/factsheet-data/factsheet/GB00B3X7QG63-vanguard-ftse-uk-all-share-index-unit-trust/portfolio"
+  portfolioHoldings:
+    - securityName: "AstraZeneca PLC"
+      weighting: 7.35245
+    - securityName: "Shell PLC"
+      weighting: 7.20315
+    - securityName: "HSBC Holdings PLC"
+      weighting: 5.26083
+    - securityName: "Unilever PLC"
+      weighting: 4.66984
+    - securityName: "BP PLC"
+      weighting: 3.07487
+    - securityName: "RELX PLC"
+      weighting: 2.72383
+    - securityName: "GSK PLC"
+      weighting: 2.39926
+    - securityName: "British American Tobacco PLC"
+      weighting: 2.17592
+    - securityName: "Diageo PLC"
+      weighting: 2.13331
+    - securityName: "Rio Tinto PLC Registered Shares"
+      weighting: 2.13134
+- name: "Vanguard FTSE Developed World ex-U.K. Equity Index Fund Acc"
+  url: https://www.fidelity.co.uk/factsheet-data/factsheet/GB00B59G4Q73-vanguard-ftse-dv-wrld-ex-uk-eq-ix-gbp-ac/portfolio
+  portfolioHoldings:
+    - securityName: "Apple Inc"
+      weighting: 4.76078
+    - securityName: "Microsoft Corp"
+      weighting: 4.58808
+    - securityName: "NVIDIA Corp"
+      weighting: 4.10407
+    - securityName: "Amazon.com Inc"
+      weighting: 2.56164
+    - securityName: "Future on E-mini S\u0026P 500 Futures"
+      weighting: 2.15284
+    - securityName: "Meta Platforms Inc Class A"
+      weighting: 1.53432
+    - securityName: "Alphabet Inc Class A"
+      weighting: 1.48705
+    - securityName: "Alphabet Inc Class C"
+      weighting: 1.25761
+    - securityName: "Broadcom Inc"
+      weighting: 1.07747
+    - securityName: "Eli Lilly and Co"
+      weighting: 1.00879
+- name: "Vanguard S&P 500 UCITS ETF (VUSA) Acc"
+  url: https://www.fidelity.co.uk/factsheet-data/factsheet/IE00B3XXRP09-vanguard-funds-plc/portfolio
+  portfolioHoldings:
+    - securityName: "Apple Inc"
+      weighting: 6.90189
+    - securityName: "Microsoft Corp"
+      weighting: 6.70404
+    - securityName: "NVIDIA Corp"
+      weighting: 6.2064
+    - securityName: "Amazon.com Inc"
+      weighting: 3.69202
+    - securityName: "Meta Platforms Inc Class A"
+      weighting: 2.24363
+    - securityName: "Alphabet Inc Class A"
+      weighting: 2.17149
+    - securityName: "Alphabet Inc Class C"
+      weighting: 1.82553
+    - securityName: "Berkshire Hathaway Inc Class B"
+      weighting: 1.71161
+    - securityName: "Broadcom Inc"
+      weighting: 1.50917
+    - securityName: "Tesla Inc"
+      weighting: 1.3884
+- name: "Vanguard Emerging Markets Stock Index Fund"
+  url: https://www.fidelity.co.uk/factsheet-data/factsheet/IE00B50MZ724-vanguard-em-markets-stock-index-gbp-acc/portfolio
+  portfolioHoldings:
+    - securityName: "Taiwan Semiconductor Manufacturing Co Ltd"
+      weighting: 9.28282
+    - securityName: "Tencent Holdings Ltd"
+      weighting: 4.06322
+    - securityName: "Samsung Electronics Co Ltd"
+      weighting: 3.85785
+    - securityName: "Alibaba Group Holding Ltd Ordinary Shares"
+      weighting: 2.04229
+    - securityName: "Reliance Industries Ltd"
+      weighting: 1.45136
+    - securityName: "SK Hynix Inc"
+      weighting: 1.02151
+    - securityName: "PDD Holdings Inc ADR"
+      weighting: 1.02144
+    - securityName: "ICICI Bank Ltd"
+      weighting: 0.99889
+    - securityName: "Hon Hai Precision Industry Co Ltd"
+      weighting: 0.99562
+    - securityName: "Infosys Ltd"
+      weighting: 0.98091
+- name: "Vanguard FTSE Developed Europe ex-U.K. Equity Index Fund"
+  url: https://www.fidelity.co.uk/factsheet-data/factsheet/GB00B5B71H80-vanguard-ftse-dv-eu-ex-uk-eq-ix-gbp-ac/portfolio
+  portfolioHoldings:
+    - securityName: "Novo Nordisk A/S Class B"
+      weighting: 4.61911
+    - securityName: "ASML Holding NV"
+      weighting: 4.13804
+    - securityName: "Nestle SA"
+      weighting: 3.03268
+    - securityName: "SAP SE"
+      weighting: 2.6448
+    - securityName: "Novartis AG Registered Shares"
+      weighting: 2.61104
+    - securityName: "Roche Holding AG"
+      weighting: 2.56397
+    - securityName: "Lvmh Moet Hennessy Louis Vuitton SE"
+      weighting: 1.98768
+    - securityName: "Siemens AG"
+      weighting: 1.55585
+    - securityName: "TotalEnergies SE"
+      weighting: 1.55177
+    - securityName: "Schneider Electric SE"
+      weighting: 1.46811
+- name: "Vanguard FTSE 100 Index Unit Trust"
+  url: https://www.fidelity.co.uk/factsheet-data/factsheet/GB00BD3RZ368-vanguard-ftse-100-index-unit-trst-gbp-ac/portfolio
+  portfolioHoldings:
+    - securityName: "AstraZeneca PLC"
+      weighting: 8.81174
+    - securityName: "Shell PLC"
+      weighting: 8.63318
+    - securityName: "HSBC Holdings PLC"
+      weighting: 6.3049
+    - securityName: "Unilever PLC"
+      weighting: 5.59704
+    - securityName: "BP PLC"
+      weighting: 3.68524
+    - securityName: "RELX PLC"
+      weighting: 3.26491
+    - securityName: "GSK PLC"
+      weighting: 2.87516
+    - securityName: "British American Tobacco PLC"
+      weighting: 2.60754
+    - securityName: "Diageo PLC"
+      weighting: 2.55691
+    - securityName: "Rio Tinto PLC Registered Shares"
+      weighting: 2.55481
+- name: "Vanguard Japan Stock Index Fund"
+  url: https://www.fidelity.co.uk/factsheet-data/factsheet/IE00B50MZ948-vanguard-japan-stock-index-fund-gbp-acc/portfolio
+  portfolioHoldings:
+    - securityName: "Toyota Motor Corp"
+      weighting: 5.22375
+    - securityName: "Mitsubishi UFJ Financial Group Inc"
+      weighting: 3.24588
+    - securityName: "Sony Group Corp"
+      weighting: 2.82187
+    - securityName: "Hitachi Ltd"
+      weighting: 2.54606
+    - securityName: "Tokyo Electron Ltd"
+      weighting: 2.44392
+    - securityName: "Sumitomo Mitsui Financial Group Inc"
+      weighting: 2.28187
+    - securityName: "Recruit Holdings Co Ltd"
+      weighting: 2.14738
+    - securityName: "Keyence Corp"
+      weighting: 2.14147
+    - securityName: "Shin-Etsu Chemical Co Ltd"
+      weighting: 2.03053
+    - securityName: "Daiichi Sankyo Co Ltd"
+      weighting: 1.89953
+- name: "Vanguard Pacific ex-Japan Stock Index Fund GBP Acc"
+  url: https://www.fidelity.co.uk/factsheet-data/factsheet/IE00B523L313-vanguard-pacific-ex-jap-stock-idx-gbp-ac/portfolio
+  portfolioHoldings:
+    - securityName: "Commonwealth Bank of Australia"
+      weighting: 8.26625
+    - securityName: "BHP Group Ltd"
+      weighting: 7.70543
+    - securityName: "CSL Ltd"
+      weighting: 5.37613
+    - securityName: "National Australia Bank Ltd"
+      weighting: 4.29962
+    - securityName: "AIA Group Ltd"
+      weighting: 4.15441
+    - securityName: "Westpac Banking Corp"
+      weighting: 3.71768
+    - securityName: "ANZ Group Holdings Ltd"
+      weighting: 3.13811
+    - securityName: "Wesfarmers Ltd"
+      weighting: 3.0021
+    - securityName: "DBS Group Holdings Ltd"
+      weighting: 2.99809
+    - securityName: "Macquarie Group Ltd"
+      weighting: 2.74178
+- name: "Vanguard FTSE 250 UCITS ETF GBP Accumulation (VMIG)"
+  url: https://www.fidelity.co.uk/factsheet-data/factsheet/IE00BFMXVQ44-vanguard-funds-plc/portfolio
+  portfolioHoldings:
+    - securityName: "Hiscox Ltd"
+      weighting: 1.21923
+    - securityName: "Tritax Big Box Ord"
+      weighting: 1.19243
+    - securityName: "RS Group PLC"
+      weighting: 1.12773
+    - securityName: "British Land Co PLC"
+      weighting: 1.11552
+    - securityName: "Polar Capital Technology Ord"
+      weighting: 1.11026
+    - securityName: "Investec PLC"
+      weighting: 1.10692
+    - securityName: "St James's Place PLC"
+      weighting: 1.09931
+    - securityName: "Alliance Trust PLC"
+      weighting: 1.03451
+    - securityName: "IG Group Holdings PLC"
+      weighting: 1.02389
+    - securityName: "Games Workshop Group PLC"
+      weighting: 0.9911
